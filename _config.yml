@@ -4,7 +4,7 @@
 
 title: Exocore
 description: A navigable, organised hypertext personal knowledge base
-url: https://exocore.netlify.app
+url: https://master--dancing-tarsier-fcdd6f.netlify.app/
 repository: remiliacorp/exocore
 
 ##############################################
@@ -71,7 +71,7 @@ defaults:
   - scope:
       path: ""
     values:
-      image: /assets/imgs/card.png
+      image: /assets/imgs/OECM.png
   - scope:
       path: ""
       type: "articles"
