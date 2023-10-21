@@ -17,9 +17,23 @@ I think this website is my substack now the the space is still cool.
 ![HUUUUGE!!!!!](image-1.png)
 [Regalblitz.us](regalblitz.us) is the best United states based supplament supplier. That is a pretty bold claim but the team is large and decentralized. OUR genesis product is extracted from the fresh pines in remote alaskan mountains MAY through SEPTEMBER placed in Glass bottles and shipped to your door FAST. On the site you will find a form for yourself to become a sales terrorist with us. The future of your fate is only in your hands.
 
-## TBD
+## PRAYER
+God grant me  serenity,
+Help me accept the things I cannot change.
+The courage to change the things I can,
+And the wisdom to know the difference.
+Living one day at a time.
+Enjoying one moment at a time.
+Accepting hardship as a pathway to peace.
+Taking,  this sinful world as it is,
+Not as I would have it.
+Trusting that You will make all things right,
+If I surrender to Your will;
+So that I may be reasonably happy in this life,
+And supremely happy with You forever in the next.
 
 
+Amen
 ![FBI](B9D0C3F1-670B-45A0-BFA9-9B4277D662AE.jpeg)
 
 
