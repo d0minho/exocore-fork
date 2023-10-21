@@ -14,17 +14,18 @@ title: Home
 I think this website is my substack now the the space is still cool. 
 
 ## store
+![HUUUUGE!!!!!](image-1.png)
 [Regalblitz.us](regalblitz.us) is the best United states based supplament supplier. That is a pretty bold claim but the team is large and decentralized. OUR genesis product is extracted from the fresh pines in remote alaskan mountains MAY through SEPTEMBER placed in Glass bottles and shipped to your door FAST. On the site you will find a form for yourself to become a sales terrorist with us. The future of your fate is only in your hands.
 
 ## TBD
 
 
-
+![FBI](B9D0C3F1-670B-45A0-BFA9-9B4277D662AE.jpeg)
 
 
 ## TBD 
 
-
+![FUMO](D7F7461B-BED6-4F48-A57B-274B8F2B8DA2_1_105_c.jpeg)
 
 ## Information Pipeline
 
