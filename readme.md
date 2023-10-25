@@ -35,7 +35,7 @@ Notes are segregated into 4 categories:
 - **Journal Entries**, for your thoughts, and are not automatically titled.
 - **Articles**, for longer write-ups on a particular topic.
 
-These note categories together create a pipeline for systematising knowledge over time from the general to the particular, and for capturing a bank of scattered reference material and developing it into a polished final product. For example, you might choose to cite a research dump in the subsequent post that it turned into as a bibliography/further reading section, such as appears at the bottom of [[Predictive Processing and the Free Energy Principle|this wiki note]]. This workflow is designed to encourage active, daily use of the exocore for all thoughts.
+These note categories together create a pipeline for systematising knowledge over time from the general to the particular, and for capturing a bank of scattered reference material and developing it into a polished final product. For example, you might choose to cite a research dump in the subsequent post that it turned into as a bibliography/further reading section, such as appears at the bottom of [[3d printed firearms|this wiki note]]. This workflow is designed to encourage active, daily use of the exocore for all thoughts.
 
 ## Editing Environment
 
