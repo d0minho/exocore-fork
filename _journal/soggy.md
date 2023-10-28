@@ -5,7 +5,7 @@ tags:
 published: true
 ---
 
-# Jade post
+# Remilio prayer 
 
 God grant me  serenity,
 Help me accept the things I cannot change.
