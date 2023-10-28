@@ -3,6 +3,7 @@ subtitle:
 topic: Computers
 date: 2022-02-04
 tags: meta exocore
+published: false
 ---
 
 ![[TBD1]]

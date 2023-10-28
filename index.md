@@ -3,7 +3,7 @@ layout: home
 title: Home
 ---
 
-## WEB 3 TV
+ ## WEB 3 TV
 
 ![Alt text](image.png)
   was a daily podcast that ran for over 8 months, giving listeners an aggregation of the best and most fake stories of the day from the perspective of a chronically online cryptocurrency gambler who has a passion for guessing the valuation of assets. 
@@ -13,11 +13,13 @@ title: Home
 [substack](https://open.substack.com/pub/cmoney/p/autumn-is-for-airdrops?r=cpxah&utm_campaign=post&utm_medium=web)
 I think this website is my substack now the the space is still cool. 
 
-## store
+## REGALbLITZ.US
 ![HUUUUGE!!!!!](image-1.png)
-[Regalblitz.us](regalblitz.us) is the best United states based supplament supplier. That is a pretty bold claim but the team is large and decentralized. OUR genesis product is extracted from the fresh pines in remote alaskan mountains MAY through SEPTEMBER placed in Glass bottles and shipped to your door FAST. On the site you will find a form for yourself to become a sales terrorist with us. The future of your fate is only in your hands.
+[Regalblitz.us](regalblitz.us) <strong> is the best United states based supplement supplier. That is a pretty bold claim but the team is large and decentralized. OUR genesis product is extracted from the fresh pines in remote alaskan mountains MAY through SEPTEMBER placed in Glass bottles and shipped to your door FAST. On the site you will find a form for yourself to become a sales terrorist with us. The future of your fate is only in your hands. </strong> 
 
 ## PRAYER
+
+{:.center}
 God grant me  serenity,
 Help me accept the things I cannot change.
 The courage to change the things I can,
@@ -34,6 +36,12 @@ And supremely happy with You forever in the next.
 
 
 Amen
+
+
+
+
+
+
 ![FBI](B9D0C3F1-670B-45A0-BFA9-9B4277D662AE.jpeg)
 
 
