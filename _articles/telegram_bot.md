@@ -47,13 +47,14 @@ After installation, consider adding the Python extension for enhanced Python sup
 #### For MacOS:
 
 1. Use Homebrew: 
-   ```bash
+   ````
+   bash
    brew install python
 
 ### **installing the telegram bot** 
 open VS CODE. create a python file. save is what you want to name it. open the terminal in VS CODE and type this 
 
-````pip install python-telegram-bot==12.8.0``````
+````pip install python-telegram-bot==12.8.0 
 
 ### **Set up your bot with bot father**
 
@@ -123,5 +124,5 @@ anyplace you see a :3 replace whats in the quotes with your custom info
 ## **Run the Bot:**
 Navigate to the directory containing your script and run:
 
-```
+````
  python your_script_name.py 
