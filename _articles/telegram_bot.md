@@ -2,7 +2,7 @@
 published: true
 topic:
 subtitle:
-date: 2022-09-26
+date: 2023-10-26
 tags: 
 ---
 
@@ -58,16 +58,20 @@ open VS CODE. create a python file. save is what you want to name it. open the t
 ### **Set up your bot with bot father**
 
 . Set up Your Bot with BotFather:
-If you haven’t created a bot already, talk to the BotFather on Telegram to create one.
-The BotFather will provide a TOKEN. Replace the placeholder TOKEN in your code with this token.
-4. Getting the CHAT_ID:
-This seems to be a group chat ID since it starts with -100. Ensure:
+
+If you haven’t created a bot already, talk to the **BotFather** on Telegram to create one.
+The BotFather will provide a **TOKEN**. Replace the placeholder TOKEN in your code with this token.
+ Getting the CHAT_ID:
+This seems to be a group chat ID since it starts with -100.
+
 the easiest way to get a chat id is to add a bot called @getchatid to the group and it will give you this info mation. 
 
 ### ** configure your bot**
 
+###### here is the code for the bot
 
-``````from telegram import Bot, Update
+``````
+from telegram import Bot, Update
 from telegram.ext import CommandHandler
 import logging
 import threading
@@ -119,4 +123,5 @@ anyplace you see a :3 replace whats in the quotes with your custom info
 ## **Run the Bot:**
 Navigate to the directory containing your script and run:
 
-``````python your_script_name.py 
+```
+ python your_script_name.py 
