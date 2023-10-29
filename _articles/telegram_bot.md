@@ -47,6 +47,7 @@ After installation, consider adding the Python extension for enhanced Python sup
 #### For MacOS:
 
 1. Use Homebrew: 
+   
    ````
    bash
    brew install python
@@ -71,7 +72,7 @@ the easiest way to get a chat id is to add a bot called @getchatid to the group 
 
 ###### here is the code for the bot
 
-``````
+```
 from telegram import Bot, Update
 from telegram.ext import CommandHandler
 import logging
@@ -117,12 +118,12 @@ def main():
 
 if __name__ == '__main__':
     main()
-`````` 
+```
 
 anyplace you see a :3 replace whats in the quotes with your custom info
 
 ## **Run the Bot:**
 Navigate to the directory containing your script and run:
 
-````
- python your_script_name.py 
+```python
+python your_script_name.py```
